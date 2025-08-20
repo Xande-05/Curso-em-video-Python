@@ -1,0 +1,5 @@
+n= str (input ('Digite aqui seu nome cmpleto: '))
+print ('Seu nome com todas as letras maiúsculas: {}' .format (n.upper()))
+print ('Seu nome com todas as letras minúsculas: {}' .format (n.lower()))
+print ('Quantas letras ao todo: {}' .format (len(epn.rlace(' ',''))))
+print ('Quantas letras tem seu primeiro nome: {}' .format (len(n. split()[0])))
