@@ -1,0 +1,7 @@
+n= int (input ('Qual valor em metros que deve ser convertido: '))
+print ('Esse valor para kilômetros temos {} Kms'.format (n/1000))
+print ('Esse valor para hectômetros temos {} Hms'.format (n/100))
+print ('Esse valor para decâmentros {} Dams'.format (n/10))
+print ('Esse valor para decímetros temos {} Dms'.format (n*10))
+print ('Esse valor para cm temos {} Cms'.format (n*100,))
+print ('Para mm temos {} Mms'.format (n*1000))
